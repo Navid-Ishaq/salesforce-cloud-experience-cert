@@ -167,3 +167,48 @@ They might need proper **sharing rules** or **role hierarchy** updates.
 ---
 
 ## 16. Visual Summary (Quick Reference)  
+```
+Account → Enable as Partner
+     ↓
+Contact → Enable as Partner User
+     ↓
+User Record Created
+     ↓
+Assign License + Profile
+     ↓
+Partner Logs Into Portal
+     ↓
+Verify Access → Adjust Sharing Rules
+```
+
+---
+
+## 17. Reflection Moment 💭  
+Pause and consider: you’re not just enabling buttons — you’re empowering collaboration.  
+Every *Enable as Partner* click symbolizes **trust**, and every partner login represents **shared growth**.  
+Salesforce isn’t just software; it’s a digital handshake between organizations.  
+
+---
+
+## 18. Certification-Style Questions  
+
+**Q1:** What’s the difference between *Enable as Partner* and *Enable as Partner User*?  
+→ *Enable as Partner* converts an Account; *Enable as Partner User* creates login access for a Contact.  
+
+**Q2:** Where can you find the “Enable as Partner” button to add it to the layout?  
+→ *In the Account Page Layout → Mobile & Lightning Actions.*  
+
+**Q3:** Why might a Partner User see “no opportunities” after logging in?  
+→ *Because sharing rules and role hierarchies haven’t been configured yet.*  
+
+**Q4:** What are the two common partner roles in Salesforce?  
+→ *Partner Manager* and *Partner User.*  
+
+**Q5:** What does ethical CRM practice require when granting partner access?  
+→ *Transparency, limited data visibility, and proper auditing.*  
+
+---
+
+## 🌱 Final Thought  
+Creating partner access isn’t just a configuration step — it’s the start of a digital partnership built on clarity and mutual respect.  
+In Salesforce, technology meets trust, and with each portal you create, you’re not just enabling logins — you’re enabling collaboration. ❤️
