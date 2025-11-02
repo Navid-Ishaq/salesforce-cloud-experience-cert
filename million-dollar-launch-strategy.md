@@ -61,7 +61,7 @@ portfolio/
 
 ## 📈 Conversion Funnel
 
-```
+
 Social Media Outreach 
     ↓
 FREE Strategy Session Booking
