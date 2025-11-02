@@ -163,8 +163,7 @@ By configuring the **Partner Role hierarchy** and **sharing settings**, you ensu
 ---
 
 ✨ *Authored with care – Organized for clarity – Inspired by collaboration.*  
-```
+
 
 ---
 
-Would you like me to also generate a **matching cover banner image (in pastel SoulTouch style)** to place at the top of the Markdown (for a GitHub README or portfolio)?
